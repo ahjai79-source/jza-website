@@ -112,7 +112,7 @@
           } else {
             setStatus(
               status,
-              "Sorry — something went wrong. Please call us at 786-317-2706 or email info@joyfulzenacademy.com.",
+              "Sorry — something went wrong. Please call us at (323) 709-3045 or email info@joyfulzenacademy.com.",
               "error"
             );
           }
@@ -120,7 +120,7 @@
         .catch(function () {
           setStatus(
             status,
-            "Sorry — something went wrong. Please call us at 786-317-2706 or email info@joyfulzenacademy.com.",
+            "Sorry — something went wrong. Please call us at (323) 709-3045 or email info@joyfulzenacademy.com.",
             "error"
           );
         })
